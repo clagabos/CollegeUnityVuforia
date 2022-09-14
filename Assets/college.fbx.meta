@@ -1,0 +1,1570 @@
+fileFormatVersion: 2
+guid: ad84a4906b5e409468342a8ef9bff0fc
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00000-texture
+    second: {fileID: 2800000, guid: 9944fa9bce1b8b1469e9073444b2c58a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00001-texture
+    second: {fileID: 2800000, guid: 3e451cfeb03c20e489df82f869d09764, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00002-texture
+    second: {fileID: 2800000, guid: f4188c8a82091eb4db0056d91b741a4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00003-texture
+    second: {fileID: 2800000, guid: 4319620402c85a243a953802bfe8c6c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00004-texture
+    second: {fileID: 2800000, guid: ac3e4f5b269cc0a4987c8105d05e701c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00005-texture
+    second: {fileID: 2800000, guid: 3bbd259155c33cc4c9cf52130db0dc3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00006-texture
+    second: {fileID: 2800000, guid: 42b0a775528e7dc47a910fe868565212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00007-texture
+    second: {fileID: 2800000, guid: 9490cb3c8cc028a47ab15a8b3305c47a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00008-texture
+    second: {fileID: 2800000, guid: a9d01ecc7133581408d6dcc515bc9bf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00009-texture
+    second: {fileID: 2800000, guid: a9cd6aeaa9ef15740a5c076991f616d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00010-texture
+    second: {fileID: 2800000, guid: 395ddbcd27ea51f47a55bddaeaa0af37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00011-texture
+    second: {fileID: 2800000, guid: bff0cf6d98c69e849833ebeea60ce3de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00012-texture
+    second: {fileID: 2800000, guid: 1694f2b500f15134fa50629f68e2bc36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00013-texture
+    second: {fileID: 2800000, guid: 24a4cac100ec7f74caebec064b7141d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00014-texture
+    second: {fileID: 2800000, guid: 188d6646a5ed48647982a63dc80e3f86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00015-texture
+    second: {fileID: 2800000, guid: 0cbc40309e4332e4f8ebbcabfc4d8fb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00016-texture
+    second: {fileID: 2800000, guid: 7a45fe4831a40514893e7b817f0f48ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00017-texture
+    second: {fileID: 2800000, guid: db88be8bf46458c459725a7bae2b4db5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00018-texture
+    second: {fileID: 2800000, guid: 74a783203445250458fefe8d47ea8e95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00019-texture
+    second: {fileID: 2800000, guid: 96c35375eb14ea54ebf85e97cfa29f1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00020-texture
+    second: {fileID: 2800000, guid: a4aecc4b083739b47a031fb13b0c68ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00021-texture
+    second: {fileID: 2800000, guid: f284375b63bc80b438489451a5ae9dfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00022-texture
+    second: {fileID: 2800000, guid: e5448a6fbb693444e93470f123bd0a62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00023-texture
+    second: {fileID: 2800000, guid: 814591ac0f19db742baa6bfef361ee17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00024-texture
+    second: {fileID: 2800000, guid: 8f8439bb7bdba3f4a9ae5fb009a13ee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00025-texture
+    second: {fileID: 2800000, guid: 8f4f0556b492bc04aa4a1f6ef2fd9e81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00026-texture
+    second: {fileID: 2800000, guid: 15826cbf280e2094f9d24ac59b8693bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00027-texture
+    second: {fileID: 2800000, guid: d3746e20322f46c4fa105197f66a8cc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00028-texture
+    second: {fileID: 2800000, guid: bbccae3ed53934e44944cc4784bc91b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00029-texture
+    second: {fileID: 2800000, guid: bbdf48845c42d394b9a35a062b440994, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00030-texture
+    second: {fileID: 2800000, guid: 3e371b861389c28489ed86917e4dccb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00031-texture
+    second: {fileID: 2800000, guid: b8f20dc22fc883d4d8daa85b3bfce025, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00032-texture
+    second: {fileID: 2800000, guid: ee220c53085619945b0871deb1f2646d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00033-texture
+    second: {fileID: 2800000, guid: 670a632bae9f2db44918671660a500c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00034-texture
+    second: {fileID: 2800000, guid: edb11fb30d279b044ab4d823e076e990, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00035-texture
+    second: {fileID: 2800000, guid: 465da2c43e79f41448c2cb86beebf915, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00036-texture
+    second: {fileID: 2800000, guid: b95919918f537104f8c91f53fd2c92e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00037-texture
+    second: {fileID: 2800000, guid: ab5fd5a40e8a17f4ea0115b48d6b53f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00038-texture
+    second: {fileID: 2800000, guid: a63947967e06d164784bd299126f7df6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00043-texture
+    second: {fileID: 2800000, guid: b905de8f0fa6f884484715d6e4677115, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00044-texture
+    second: {fileID: 2800000, guid: 40966208cde626d4a9123ad7b5c6baf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00045-texture
+    second: {fileID: 2800000, guid: 5d90c852a55257348b9e875612dd7feb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00046-texture
+    second: {fileID: 2800000, guid: c25f767955667a24ea41dfaa61f5378e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00047-texture
+    second: {fileID: 2800000, guid: dcf9b27705392cb41a8e51b9dce43c9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00048-texture
+    second: {fileID: 2800000, guid: a9837c26bc8aec640a7dd456c590a5df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00053-texture
+    second: {fileID: 2800000, guid: 6a0a97130129ffc45a7a98d492e6efa5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00054-texture
+    second: {fileID: 2800000, guid: 703367febebb84f4794d8fb38d729195, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00055-texture
+    second: {fileID: 2800000, guid: df18510c5217fb84bb33b55ac4604323, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00056-texture
+    second: {fileID: 2800000, guid: 9710254c4c0bf264f830e309e4079ab6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00059-texture
+    second: {fileID: 2800000, guid: 272ce35cc498b674d9f90f75ab18ddff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00060-texture
+    second: {fileID: 2800000, guid: 1764f78421f468b478e36f8f75c0ab3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00061-texture
+    second: {fileID: 2800000, guid: 61b5d0ad24e3f6a408758db507a16796, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00062-texture
+    second: {fileID: 2800000, guid: 53366f77755d3e649bbc2a5b47e5fc02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00063-texture
+    second: {fileID: 2800000, guid: 4d2d5a84843d87c4ca7cbef5a76b5bba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00064-texture
+    second: {fileID: 2800000, guid: 9c772305c46644548a6ce8aa17637e00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00069-texture
+    second: {fileID: 2800000, guid: 5a9bdbdf46517f7409caf0dc89a92d13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00070-texture
+    second: {fileID: 2800000, guid: cd4db3216d5f70d49afe45ba99ab993d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00071-texture
+    second: {fileID: 2800000, guid: 1b75555fa0561a046855b0a64fef8980, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00072-texture
+    second: {fileID: 2800000, guid: 601107885ebe31e4481d96bbff96d1c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00073-texture
+    second: {fileID: 2800000, guid: 18c3504fabe7b0148995660e87fb7527, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00074-texture
+    second: {fileID: 2800000, guid: 320e163232a98c04599c8075c14f3aa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00075-texture
+    second: {fileID: 2800000, guid: 65dafd7d50f7c384b9aba640abd3f9ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00076-texture
+    second: {fileID: 2800000, guid: c65a454544cfda24d87780a8ac76362e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00077-texture
+    second: {fileID: 2800000, guid: 592685a0d33d6034e8ffefa9de7f0ee5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00078-texture
+    second: {fileID: 2800000, guid: 2137237644dc9ad4ba3bdf64dfb19025, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00079-texture
+    second: {fileID: 2800000, guid: 553fede3bae947b4290f827832993872, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00080-texture
+    second: {fileID: 2800000, guid: 26e72baeb820d374090744e0c9f9efef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00081-texture
+    second: {fileID: 2800000, guid: 160d8c6ea89fed34fb2e04e7306c93e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00082-texture
+    second: {fileID: 2800000, guid: c1596c09609316d498665b3574d5ce8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00083-texture
+    second: {fileID: 2800000, guid: be461509aa80dad49a7892996c64f740, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00084-texture
+    second: {fileID: 2800000, guid: 34873039e403e634e99c1418ad74d593, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00085-texture
+    second: {fileID: 2800000, guid: 6ef3cb1edb70400489e28f4bb70bdec5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00086-texture
+    second: {fileID: 2800000, guid: 8b6888c6911eee748a22413e1dc901ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00087-texture
+    second: {fileID: 2800000, guid: fec3e4810d0b9a34a8c21d3ba3aab157, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00088-texture
+    second: {fileID: 2800000, guid: d80c3a9806ce602468c78ad281c6a886, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00089-texture
+    second: {fileID: 2800000, guid: c3412929ddd205249a126e71ac511668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00090-texture
+    second: {fileID: 2800000, guid: 1cc356bfb5ce44649933dcc855de5aff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00091-texture
+    second: {fileID: 2800000, guid: 341b279bf620c0345afd4c013e31739a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00092-texture
+    second: {fileID: 2800000, guid: 8b18a3a70134c25428e745e0b6587051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00093-texture
+    second: {fileID: 2800000, guid: f9164d989cdb67043b6d5c27f680f5eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00094-texture
+    second: {fileID: 2800000, guid: 9eda2d394c1cb1d4cb81471d3bf176bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00095-texture
+    second: {fileID: 2800000, guid: bb757283b6fc5944095d4e834940e907, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00096-texture
+    second: {fileID: 2800000, guid: 7f530ec6f8c5eb84e9aa0dc1dcd30018, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00097-texture
+    second: {fileID: 2800000, guid: 8fe395571fd3eb449a1cfe778ac4e229, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00098-texture
+    second: {fileID: 2800000, guid: 29f44c6d97f89334e8d863d416699037, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00099-texture
+    second: {fileID: 2800000, guid: 7fab6f8ab00b26d498cae128eee4b574, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00100-texture
+    second: {fileID: 2800000, guid: f77f0ddde167cba45b51f1a90bd48b67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00101-texture
+    second: {fileID: 2800000, guid: 88bc39b314ff20b4cb1fed188cddb19b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00102-texture
+    second: {fileID: 2800000, guid: a135664897708d3438bf5cce2feb3b88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00103-texture
+    second: {fileID: 2800000, guid: 240501f4b11022e458fbaaf37d4842eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00104-texture
+    second: {fileID: 2800000, guid: 9acfc47cdba418e409bc175a178e4de0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00105-texture
+    second: {fileID: 2800000, guid: 4b00b508f9e2fc8429f8b4096deb68eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00106-texture
+    second: {fileID: 2800000, guid: eca293512ac02d844900572dabcb6b82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00107-texture
+    second: {fileID: 2800000, guid: 1454e082c949da3489636e402fef5ca2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00108-texture
+    second: {fileID: 2800000, guid: 3a979b028634f7441aa7b453c5af6e23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00109-texture
+    second: {fileID: 2800000, guid: 4ded1642aa6fcab4bad542a8d70d47c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00110-texture
+    second: {fileID: 2800000, guid: 6ef2384ddbccd6d4ebcb177a5187707f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00111-texture
+    second: {fileID: 2800000, guid: 9ee62c35e380f59409d96de78248bf82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00112-texture
+    second: {fileID: 2800000, guid: 0fbf5ebfd26ad4944bb5b532e55fea7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00113-texture
+    second: {fileID: 2800000, guid: b467a11fb90041e4d989ef9e9cea56b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00114-texture
+    second: {fileID: 2800000, guid: b0bb5c88b3ffb144194c78aa60846b32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00117-texture
+    second: {fileID: 2800000, guid: fa7c87edcc5657b41a8ddea1f1eab638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00118-texture
+    second: {fileID: 2800000, guid: 9c5440f9ff7e2224e9b7e20d17c3eeea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00121-texture
+    second: {fileID: 2800000, guid: 67cc40faaa680374796d1677a15fc75a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00122-texture
+    second: {fileID: 2800000, guid: eaa3d6b7884b53f4da27642683c8127e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00153-texture
+    second: {fileID: 2800000, guid: 9c6acb21c7fdec748bd72340a90c0175, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00154-texture
+    second: {fileID: 2800000, guid: 51f68f8ec1dc4ea48a91108e40681a08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00175-texture
+    second: {fileID: 2800000, guid: 570b3facecd5e4a4289f1bba17448cce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00176-texture
+    second: {fileID: 2800000, guid: 63767cf87564ee249847842ed487f51a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00183-texture
+    second: {fileID: 2800000, guid: fee06f196b81cbc4b8095f3bdc65b334, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00184-texture
+    second: {fileID: 2800000, guid: 6622a9ed908bfff4fbecf50f768fc09b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00185-texture
+    second: {fileID: 2800000, guid: df7ea3d241e0b1444b803a481abd0959, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00186-texture
+    second: {fileID: 2800000, guid: f796bdcaa872de84d94a8202c0fffc42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00187-texture
+    second: {fileID: 2800000, guid: 9f706ca3198ceb0419d07ec02454ea22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00188-texture
+    second: {fileID: 2800000, guid: 275f1229de24a0247a48c524c4771cc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00189-texture
+    second: {fileID: 2800000, guid: 2972ed6cd0b376341b3c580a5fb4015b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00190-texture
+    second: {fileID: 2800000, guid: 4af2b686324e6314cb7653a500d5e04a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00191-texture
+    second: {fileID: 2800000, guid: 17aa1827ccac56d45bb38b5155d2f558, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00192-texture
+    second: {fileID: 2800000, guid: de0256b03da7ff94bb96ba0a7209b218, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00193-texture
+    second: {fileID: 2800000, guid: 3d594fe53129f5b498092dcabc9755d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00194-texture
+    second: {fileID: 2800000, guid: e37a3354a9a1988428938d71d807168f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00195-texture
+    second: {fileID: 2800000, guid: 47c0eb06ca594f049900baab279bf46c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00196-texture
+    second: {fileID: 2800000, guid: a063188fcc9c28348ac8050ae136da68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00197-texture
+    second: {fileID: 2800000, guid: 038472bbafab5934db9b3d3b402f4946, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00198-texture
+    second: {fileID: 2800000, guid: 24de32a476851f748b3b6d66f882994e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00199-texture
+    second: {fileID: 2800000, guid: 917b3dca1176276498b2dec4741e0898, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00200-texture
+    second: {fileID: 2800000, guid: 258e109ed20c1784d92f31c77e4e5b92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00203-texture
+    second: {fileID: 2800000, guid: e5540ba4e1d618345a8a980c837e306c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00204-texture
+    second: {fileID: 2800000, guid: b0a54503369ff9f4cb9529337677941a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00205-texture
+    second: {fileID: 2800000, guid: cb898a62fe41a1a47a2701a1dd6084ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00206-texture
+    second: {fileID: 2800000, guid: acaed3dd6998deb49a1e30c90e78e9a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00213-texture
+    second: {fileID: 2800000, guid: a357be9f7989dda458956a8ba35967b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00214-texture
+    second: {fileID: 2800000, guid: e691bc45ff48be0458fe1611d12a1cb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00215-texture
+    second: {fileID: 2800000, guid: 56852ef0f44b6724db6bd1199519f90d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00216-texture
+    second: {fileID: 2800000, guid: df570e45b34522d498aa7eb354e8bc28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00221-texture
+    second: {fileID: 2800000, guid: 8cf81529af2008c4d8a2eddff41eefc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00222-texture
+    second: {fileID: 2800000, guid: 08b5376cc935f9544b81e62f659f32f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00225-texture
+    second: {fileID: 2800000, guid: 6bf708b4a09468044a9113a50a667584, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00226-texture
+    second: {fileID: 2800000, guid: 7ed17a3763891394989c6f02cd55e177, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00227-texture
+    second: {fileID: 2800000, guid: 05672eac35b284a43a3eec64267efc11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00228-texture
+    second: {fileID: 2800000, guid: fb3f4d96e7494584482227737effab01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00229-texture
+    second: {fileID: 2800000, guid: 44c1c011de588a4408926808718b3ea4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00230-texture
+    second: {fileID: 2800000, guid: 966e88a73b7d1464f8998d05e03b094f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00231-texture
+    second: {fileID: 2800000, guid: d6726b8f823daf443a515e8e891ff3bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00232-texture
+    second: {fileID: 2800000, guid: d2567eefbf0d22547ab9929f3800e1ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00233-texture
+    second: {fileID: 2800000, guid: 21f31d6f881dfc34b91ae09b164b6ef8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00234-texture
+    second: {fileID: 2800000, guid: 10b8922d0a7158747b7d011b56bc7fa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00235-texture
+    second: {fileID: 2800000, guid: ad565cfd21aa35546bb59b91dcfe7cd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00236-texture
+    second: {fileID: 2800000, guid: 75d9a5315c84c0d4d91cbb21221ae7b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00237-texture
+    second: {fileID: 2800000, guid: d6fc60826cecb434b861caf375390db7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00238-texture
+    second: {fileID: 2800000, guid: c01ed35618d0fc74a95158105d024732, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00241-texture
+    second: {fileID: 2800000, guid: 4ff938dea7015224295b0f0a996b4564, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00242-texture
+    second: {fileID: 2800000, guid: b09d74cb785e905429fd67f7d05c29c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00243-texture
+    second: {fileID: 2800000, guid: 863fc9fd0f781384081d5c0a34a3623c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00244-texture
+    second: {fileID: 2800000, guid: d400132c6663e4148a3b64fef96fb753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00245-texture
+    second: {fileID: 2800000, guid: c8b4de051a059734b9c2b0fe1098137c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00246-texture
+    second: {fileID: 2800000, guid: f48e9ffe7b231aa49abc098bdd6cfb21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00247-texture
+    second: {fileID: 2800000, guid: e3b53375759aa2e428848248aa44ac32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00248-texture
+    second: {fileID: 2800000, guid: a1daa64ef73b6644794ddda9b33be9f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00249-texture
+    second: {fileID: 2800000, guid: e19dbac7803868c49b95d335a16379e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00250-texture
+    second: {fileID: 2800000, guid: 9ceed263608995d43ba0e2bb175ff33f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00251-texture
+    second: {fileID: 2800000, guid: 79a0e6e2362883f4d95ab1559941df3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00252-texture
+    second: {fileID: 2800000, guid: 7542cc5afcd9cc24daba37e0fcd8989a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00253-texture
+    second: {fileID: 2800000, guid: e5e17885ba1cee64b81defaaa85b32e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00254-texture
+    second: {fileID: 2800000, guid: 1b3809d53612c2849973f569f4efcccf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00255-texture
+    second: {fileID: 2800000, guid: 598a88149ca5b4e4a9862d11c1f5c633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00256-texture
+    second: {fileID: 2800000, guid: 163e0836fefc20642a6209432c8c079c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00257-texture
+    second: {fileID: 2800000, guid: e813ee72ea48b4241a16dc23c0c79d9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00258-texture
+    second: {fileID: 2800000, guid: 9d52b0075332f2c488ae9c4301ac4a7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00259-texture
+    second: {fileID: 2800000, guid: 7f927cac1f4f12e43b6e444a13997895, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00260-texture
+    second: {fileID: 2800000, guid: 3a031640d52cdba448411ca1416eff8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00261-texture
+    second: {fileID: 2800000, guid: 87ea3b5a7abcd394896b2e470365b833, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00262-texture
+    second: {fileID: 2800000, guid: c7c7a0a03e3abe548817e38ea372b8c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00263-texture
+    second: {fileID: 2800000, guid: bcf93e4d4ed82c74bb1469e74e6eb92e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00264-texture
+    second: {fileID: 2800000, guid: 4f97aa3eece2de946adcb1dac3fc4090, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00265-texture
+    second: {fileID: 2800000, guid: a70e48ad436278e4c9bfd78e4d58cc53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00266-texture
+    second: {fileID: 2800000, guid: 7bfa0e51a45e6144fa60d34bb6030e6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00267-texture
+    second: {fileID: 2800000, guid: d27d42d0f1ec24e4380c14eb9584d76b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00268-texture
+    second: {fileID: 2800000, guid: d391c297a9def7849b0998771c90f9df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00269-texture
+    second: {fileID: 2800000, guid: a310005cd41217d4e8d102c0b7f6f441, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00270-texture
+    second: {fileID: 2800000, guid: 656dc61fb10e3b74890f906199edb71b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00271-texture
+    second: {fileID: 2800000, guid: f6b22f3161c313f4a9f689c16e574603, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00272-texture
+    second: {fileID: 2800000, guid: 5641f4e70334ec64d9e8700eed433ea2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00273-texture
+    second: {fileID: 2800000, guid: 0c8eb578e2a53f14a971753a53cfda8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00274-texture
+    second: {fileID: 2800000, guid: fd0fe73ac5cc0b442adec65e98c97373, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00275-texture
+    second: {fileID: 2800000, guid: b472dbeb112725a409419f97be19f779, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00276-texture
+    second: {fileID: 2800000, guid: beb97db00ce6b0b4e9494481cf095a94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00277-texture
+    second: {fileID: 2800000, guid: 2afb6f3ed81d617429b152de0419f5e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00278-texture
+    second: {fileID: 2800000, guid: c159c9938acca844bad8c18a7c6692db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00279-texture
+    second: {fileID: 2800000, guid: d11e56eefa3733b4fb861fd13d0c895a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00280-texture
+    second: {fileID: 2800000, guid: df364350a7fc59647947a5175e920c47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00281-texture
+    second: {fileID: 2800000, guid: 30240b36ecea14640a602ce21cbef739, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00282-texture
+    second: {fileID: 2800000, guid: 907175c2a42beb740be52cb58f89eb70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00283-texture
+    second: {fileID: 2800000, guid: 68d7a33a61fdac744b6111cbadc4ea8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00284-texture
+    second: {fileID: 2800000, guid: 8cbc359fa76087c4e8832f4c863bf612, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00285-texture
+    second: {fileID: 2800000, guid: 5a04d06de1ffbe94e8929cee4b3ef39a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00286-texture
+    second: {fileID: 2800000, guid: 9007d8ac1d04ff54b9f311cde032cb67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00287-texture
+    second: {fileID: 2800000, guid: de040ede3078d6945a28883281fac569, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00288-texture
+    second: {fileID: 2800000, guid: c0c9c8157cc4faf49a44e760761cfa2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00289-texture
+    second: {fileID: 2800000, guid: be6478b13f133014dbcd86c84432eb75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00290-texture
+    second: {fileID: 2800000, guid: 4e5830cb54840c5419730c434f72f1f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00291-texture
+    second: {fileID: 2800000, guid: 5848a0c85fa3fa740adc6e2a30c04f20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00292-texture
+    second: {fileID: 2800000, guid: 7f3c4528b09eb094a9dd109dd01d1fae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00293-texture
+    second: {fileID: 2800000, guid: def32dada0160414c837bc238319bbd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00294-texture
+    second: {fileID: 2800000, guid: 2a6f701a3e16738448027850c75a256a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00295-texture
+    second: {fileID: 2800000, guid: 5f10d1d28ca29244aac056db111145d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00296-texture
+    second: {fileID: 2800000, guid: 114fe6abb9a03d147b8af20fa77d5250, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00297-texture
+    second: {fileID: 2800000, guid: 9d140f6305c795b4fac8c84fd66af1f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00298-texture
+    second: {fileID: 2800000, guid: 6707b70fb5f49fd46943cba7f5722373, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00299-texture
+    second: {fileID: 2800000, guid: 02070dae17b4fbc46a5b074fb163c4bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00300-texture
+    second: {fileID: 2800000, guid: f236c40f121fb154fa81c200bb312776, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00301-texture
+    second: {fileID: 2800000, guid: 49cc2cda3b1519444b49172864e629f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00302-texture
+    second: {fileID: 2800000, guid: 6660af3076876c04c811ac7e0dbffcfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00303-texture
+    second: {fileID: 2800000, guid: 8e685bbf80ae8504e9a01cb06a78660e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00304-texture
+    second: {fileID: 2800000, guid: fc6cf065b0e8ad44a977b85fa84a89d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00309-texture
+    second: {fileID: 2800000, guid: 019ceafe39a0fad42b04acfd27f908b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00310-texture
+    second: {fileID: 2800000, guid: 523a22f3d3e1a3440aa84e008a604fc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00311-texture
+    second: {fileID: 2800000, guid: d29963b336118d44f89e310b7c717f38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00312-texture
+    second: {fileID: 2800000, guid: 36072476b55c11c459f34a3f93f353ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00313-texture
+    second: {fileID: 2800000, guid: 2b9aeb3bae04c6d48bf3b95b632ace28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00314-texture
+    second: {fileID: 2800000, guid: 958f2515756460342b63a54f5b388e26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00315-texture
+    second: {fileID: 2800000, guid: f37dea2dd8c11e54a848bbd2a0421ee2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00316-texture
+    second: {fileID: 2800000, guid: ba45b4ce85a5dc443b388589a869d414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00317-texture
+    second: {fileID: 2800000, guid: 03df9eec938aa894d981aa25c28d1aca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00318-texture
+    second: {fileID: 2800000, guid: 98b83913a10bc2c4eb8965d1f4fe6251, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00319-texture
+    second: {fileID: 2800000, guid: 8bc655fad65f6454b96a20b0eb753654, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00320-texture
+    second: {fileID: 2800000, guid: bd9b15952135fcd41beda745ca90d8b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00321-texture
+    second: {fileID: 2800000, guid: 7cf67464653e8b54d81991037df78460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00322-texture
+    second: {fileID: 2800000, guid: d67ae2208567eff4c89429d9bf41d244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00323-texture
+    second: {fileID: 2800000, guid: bb1e750cfd2a43c4191b468a44305767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00324-texture
+    second: {fileID: 2800000, guid: ab447b10627615245a8691e8652626f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00349-texture
+    second: {fileID: 2800000, guid: 68232d6f00a56ec429add180701442fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00350-texture
+    second: {fileID: 2800000, guid: 8e722629a1d9e0a4ca88c4fc43cb9676, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00351-texture
+    second: {fileID: 2800000, guid: bba607abd10a7834ab7cfa76984968ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00352-texture
+    second: {fileID: 2800000, guid: d770a6bc38a818e47bb6bab0ea8b42ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00353-texture
+    second: {fileID: 2800000, guid: 86bd942dae8566c47a1838d7daae05af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00354-texture
+    second: {fileID: 2800000, guid: 1f531b2c4fa525c4786a6959b814aac2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00355-texture
+    second: {fileID: 2800000, guid: 1bde231f25280bc4cbe1f27f6f5a6f6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00356-texture
+    second: {fileID: 2800000, guid: f9e0ee96b1ae4db4ab31600eaed4c7b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00357-texture
+    second: {fileID: 2800000, guid: b1270c0cbb312054d9a2740de43c6eec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00358-texture
+    second: {fileID: 2800000, guid: 303600e78737a854ca8b1eef5bd7f1f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00365-texture
+    second: {fileID: 2800000, guid: 9dcec03d7214c8a4aa9af6f434e619bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00366-texture
+    second: {fileID: 2800000, guid: cf3d4562405437948ab3374cdd5d70fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00367-texture
+    second: {fileID: 2800000, guid: 54fbf0cb97a2b1c47b6846adfb681729, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00368-texture
+    second: {fileID: 2800000, guid: 775ddac63c0ed3840a2831f3edb096df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00369-texture
+    second: {fileID: 2800000, guid: 04632c6476e4abb4680a761a660cc371, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00370-texture
+    second: {fileID: 2800000, guid: 3000001e83fd22040bce209983b80522, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00371-texture
+    second: {fileID: 2800000, guid: b34219436ab270a40b5c9a1185b84ca1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00372-texture
+    second: {fileID: 2800000, guid: c9ef2cb338c5eb84699165cbc8371623, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00373-texture
+    second: {fileID: 2800000, guid: 988fefa00947b944f9ebe670b097e093, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00374-texture
+    second: {fileID: 2800000, guid: 799c66531cd1be345a11e3f83ab9ecbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00375-texture
+    second: {fileID: 2800000, guid: 68d0964007a62d142b00c7a5ae0cbcec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00376-texture
+    second: {fileID: 2800000, guid: 0c5ad4e98efe7ac42b2bdd9d6caa96c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00377-texture
+    second: {fileID: 2800000, guid: b66554a227e69864e8e335acd1b60276, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00378-texture
+    second: {fileID: 2800000, guid: d4c1790c5e0f88545a485d2b5e230f1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00379-texture
+    second: {fileID: 2800000, guid: 0a00f2f7d885ba640a7ac6aac5433b61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00380-texture
+    second: {fileID: 2800000, guid: c6efac4f0ae8ef74b86c71b7748f0149, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00381-texture
+    second: {fileID: 2800000, guid: 2974b24dbf3d0104fb2968ba26c2c9ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00382-texture
+    second: {fileID: 2800000, guid: e61f57c9ac033a7469702fa01012c51a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00383-texture
+    second: {fileID: 2800000, guid: 485a7da555dfc1e4e8f0e9fb0ead986a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00384-texture
+    second: {fileID: 2800000, guid: 92bd127ec8d77194099c85b02a404a44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00385-texture
+    second: {fileID: 2800000, guid: c646ac29923a7be46a77a66336f81818, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00386-texture
+    second: {fileID: 2800000, guid: 581afa71ff4f0a043b18cc86ff3bede2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00397-texture
+    second: {fileID: 2800000, guid: f1387292cbe66a74c8fdd4381c19ad1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00398-texture
+    second: {fileID: 2800000, guid: b479fed03c9ae764680652de2a37b1a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00399-texture
+    second: {fileID: 2800000, guid: 06ca1334085e65b4da959301e8f82dd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00400-texture
+    second: {fileID: 2800000, guid: 5641c4e844b9d3a47b141a24c386f669, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00401-texture
+    second: {fileID: 2800000, guid: 032df9788d423df4a8e3c3accfd6458d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00402-texture
+    second: {fileID: 2800000, guid: 41896e54921dc814faf2700f410093de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00403-texture
+    second: {fileID: 2800000, guid: 6d5685ee421500b4cbc42cb136a98a77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00404-texture
+    second: {fileID: 2800000, guid: 2eab774bf83fe7f488ac7851f556b1aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00405-texture
+    second: {fileID: 2800000, guid: dd30781460de31c40a19997af4b09b13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00406-texture
+    second: {fileID: 2800000, guid: da027a385034a5846ae42cb96d090982, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00407-texture
+    second: {fileID: 2800000, guid: 58f9a78a4ba59b54cbaa06db5e0eb172, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00408-texture
+    second: {fileID: 2800000, guid: d220e667ec5cd644e9ee2e8a85cce656, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00409-texture
+    second: {fileID: 2800000, guid: c66607165485c0741b965da5b08c9596, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00410-texture
+    second: {fileID: 2800000, guid: 4c9ae7886420b40499406d76d7ebba33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00411-texture
+    second: {fileID: 2800000, guid: c48b57cd2a679f44ea5ec11b7fa9c03b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00412-texture
+    second: {fileID: 2800000, guid: 01469f014c89cf744969ffd44b4aed6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00413-texture
+    second: {fileID: 2800000, guid: fc42950358a2c9346bc0b52cf8f3313f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00414-texture
+    second: {fileID: 2800000, guid: d2b60928cd7849747974ec26af97091a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00415-texture
+    second: {fileID: 2800000, guid: 3b364a78d28c27a45b9202902cece20e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00416-texture
+    second: {fileID: 2800000, guid: 0cc4160997e3fa548912902e9100cba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00417-texture
+    second: {fileID: 2800000, guid: 6d43f72824382cc408601a45c5c6823a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00418-texture
+    second: {fileID: 2800000, guid: 04b0d45200ab76940a2591e74fb156cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00419-texture
+    second: {fileID: 2800000, guid: 2775920f07b617c4b9e041d4f1ff2b3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00420-texture
+    second: {fileID: 2800000, guid: 3ec08730a0f9e6e4fbcb5bb1cd18afca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00425-texture
+    second: {fileID: 2800000, guid: 72512b5ed3284084ebc6ba5cccf0551f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00426-texture
+    second: {fileID: 2800000, guid: 72c529fcda6d54347b241b9e31da9873, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00427-texture
+    second: {fileID: 2800000, guid: 2b5d11f5bf1ce9f428a8ce8429a041ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00428-texture
+    second: {fileID: 2800000, guid: 4eaf57aebe5da584fb534b26a6817f41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00429-texture
+    second: {fileID: 2800000, guid: bcf53aa7acb90374f8f4713f7fe57be8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: college-00430-texture
+    second: {fileID: 2800000, guid: 594f333b20414664d91eb2e83c45e743, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
